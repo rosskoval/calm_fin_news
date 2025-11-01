@@ -34,7 +34,7 @@ Financial news plays a critical role in the information diffusion process in fin
 ## Case Study 
 
 <p align="center">
-<img width="300" height="250" alt="case_study" src=""./images/case_study.png"" />
+<img width="300" height="250" alt="case_study" src="./images/case_study.png" />
 </p>
 
 *Figure 2: Sample news that highlights the value of historical context in understanding the recent news article. Without knowing the terms of the sale, filing delays would typically be interpreted negatively. 
