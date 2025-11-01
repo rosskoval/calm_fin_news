@@ -26,7 +26,7 @@ Financial news plays a critical role in the information diffusion process in fin
 ## Model Architecture
 
 <p align="center">
-<img width="600" height="600" alt="psc_model_diagram_08062025" src="https://github.com/user-attachments/assets/119f3e3a-37da-4e44-8e87-c4563a8262bc" />
+<img width="600" height="600" alt="psc_model_diagram_08062025" src="./images/psc_model_diagram.png" />
 </p>
 
 *Figure 1: Overview of our contextualized news forecasting task and proposed Prefix Summary Context (PSC), which efficiently and effectively summarizes historical context with the Historical Context Summarizer (HCS) and aligns it in the latent space of a large LM with Cross-Model Alignment (CMA) and Context-Aware Language Modeling (CALM). The resulting PSC embeddings are prepended to the main article tokens, allowing the LLM to contextualize the main article with historical background.*
@@ -34,7 +34,7 @@ Financial news plays a critical role in the information diffusion process in fin
 ## Case Study 
 
 <p align="center">
-<img width="300" height="250" alt="case_study" src="https://github.com/user-attachments/assets/b4cba8a3-11ef-4a08-818a-d7e8273f96e3" />
+<img width="300" height="250" alt="case_study" src=""./images/case_study.png"" />
 </p>
 
 *Figure 2: Sample news that highlights the value of historical context in understanding the recent news article. Without knowing the terms of the sale, filing delays would typically be interpreted negatively. 
